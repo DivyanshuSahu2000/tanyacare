@@ -1,0 +1,32 @@
+.logo-tanya{
+    height: 82px;
+    width: 203px;
+}
+.navtext{
+    text-decoration: none;
+    color: #2465DF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.bttg{
+    
+    border-radius: 60px;
+    color:white;
+    text-transform: none;
+    margin-left: 20px;
+}
+
+/* .Contact{
+    display: inline-flex;
+height: 75px;
+width: 143px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+color: brown;
+flex-shrink: 0;
+padding: 12px 20px;
+} */
